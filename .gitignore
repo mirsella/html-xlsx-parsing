@@ -1,0 +1,4 @@
+*.html
+*.xlsx
+*.xlsm
+node_modules
